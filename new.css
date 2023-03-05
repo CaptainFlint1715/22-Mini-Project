@@ -1,0 +1,21 @@
+* {
+    font-family: font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: aqua
+}
+
+header {
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    color: red;
+    border: solid darkgoldenrod; border-width: 7px
+}
+
+.biggo{
+    border: solid teal; border-width: 10px;
+    padding: 300px;
+}
+
+#dolphin{
+    width: 800px
+}
